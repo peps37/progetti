@@ -7,6 +7,7 @@ var arrayAnimali = [
 ];
 
 
+console.log()
 function shuffle(a) {
     var currentIndex = a.length;
     var temporaryValue, randomIndex;
